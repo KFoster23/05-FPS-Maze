@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/523426__andersmmg__robot-beep.wav-060df1205e8d78d3c65d50a07169842d.sample"
+
+[deps]
+
+source_file="res://Assets/523426__andersmmg__robot-beep.wav"
+dest_files=[ "res://.import/523426__andersmmg__robot-beep.wav-060df1205e8d78d3c65d50a07169842d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
